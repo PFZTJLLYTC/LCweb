@@ -2,18 +2,18 @@
 <html class="no-js">
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <title>连城管理系统</title>
-    <meta name="description" content="这是一个 index 页面">
-    <meta name="keywords" content="index">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta name="renderer" content="webkit">
-    <meta http-equiv="Cache-Control" content="no-siteapp" />
-    <link rel="icon" type="image/png" href="../img/LC.png">
-    <link rel="apple-touch-icon-precomposed" href="../img/app-icon72x72@2x.png">
-    <meta name="apple-mobile-web-app-title" content="Amaze UI" />
-    <link rel="stylesheet" href="../css/amazeui.min.css"/>
-    <link rel="stylesheet" href="../css/admin.css">
+    <meta content="这是一个 index 页面" name="description">
+    <meta content="index" name="keywords">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <meta content="webkit" name="renderer">
+    <meta content="no-siteapp" http-equiv="Cache-Control"/>
+    <link href="../img/LC.png" rel="icon" type="image/png">
+    <link href="../img/app-icon72x72@2x.png" rel="apple-touch-icon-precomposed">
+    <meta content="Amaze UI" name="apple-mobile-web-app-title"/>
+    <link href="../css/amazeui.min.css" rel="stylesheet"/>
+    <link href="../css/admin.css" rel="stylesheet">
     <script src="../js/jquery.min.js"></script>
     <script src="../js/app.js"></script>
 </head>
@@ -26,13 +26,14 @@
         <ul class="am-nav am-nav-pills am-topbar-nav admin-header-list">
 
             <li class="am-dropdown tognzhi" data-am-dropdown>
-                <button class="am-btn am-btn-primary am-dropdown-toggle am-btn-xs am-radius am-icon-bell-o" data-am-dropdown-toggle> 消息管理<span class="am-badge am-badge-danger am-round">6</span></button>
+                <button class="am-btn am-btn-primary am-dropdown-toggle am-btn-xs am-radius am-icon-bell-o"
+                        data-am-dropdown-toggle> 消息管理<span class="am-badge am-badge-danger am-round">6</span></button>
                 <ul class="am-dropdown-content">
 
 
-
                     <li class="am-dropdown-header">所有消息都在这里</li>
-                    <li><a href="todealwith.html">未处理订单 <span class="am-badge am-badge-danger am-round">6</span></a></li>
+                    <li><a href="todealwith.html">未处理订单 <span class="am-badge am-badge-danger am-round">6</span></a>
+                    </li>
                     <li><a href="#">未处理司机申请</a></li>
                     <li><a href="#">用户反馈</a></li>
                     <li><a href="#">系统升级</a></li>
@@ -59,14 +60,15 @@
 
                 </p>
 
-                <p class="ycfg"><input type="text" class="am-form-field am-input-sm" placeholder="圆角表单域" /></p>
-                <p><button class="am-btn am-btn-xs am-btn-default am-xiao"><i class="am-icon-search"></i></button></p>
+                <p class="ycfg"><input class="am-form-field am-input-sm" placeholder="圆角表单域" type="text"/></p>
+                <p>
+                    <button class="am-btn am-btn-xs am-btn-default am-xiao"><i class="am-icon-search"></i></button>
+                </p>
             </li>
 
 
-
-
-            <li class="am-hide-sm-only" style="float: right;"><a href="javascript:;" id="admin-fullscreen"><span class="am-icon-arrows-alt"></span> <span class="admin-fullText">开启全屏</span></a></li>
+            <li class="am-hide-sm-only" style="float: right;"><a href="javascript:" id="admin-fullscreen"><span
+                    class="am-icon-arrows-alt"></span> <span class="admin-fullText">开启全屏</span></a></li>
         </ul>
     </div>
 </header>
@@ -76,64 +78,58 @@
     <div class="nav-navicon admin-main admin-sidebar">
 
 
-        <div class="sideMenu am-icon-dashboard" style="color:#aeb2b7; margin: 10px 0 0 0;"> 欢迎系统管理员：清风抚雪</div>
+        <div class="sideMenu am-icon-dashboard" style="color:#aeb2b7; margin: 10px 0 0 0;"> 欢迎系统管理员：德玛西亚</div>
         <div class="sideMenu">
-        <h3 class="am-icon-flag"><em></em> <a href="#">订单管理</a></h3>
-        <ul>
-            <li><a href="alldeals.html">所有订单列表</a></li>
-            <li><a href="todealwith.html">待处理订单</a></li>
-            <li><a href="doingdeals.html">进行中订单</a></li>
-            <li><a href="completed.html">已完成订单</a></li>
-        </ul>
-        <h3 class="am-icon-cart-plus"><em></em> <a href="#"> 司机管理</a></h3>
-        <ul>
-            <li><a href="drivers.html">司机列表</a></li>
-            <li><a href="driverswaitingforjudge.html">审核中司机</a></li>
-        </ul>
-        <h3 class="am-icon-users"><em></em> <a href="#">用户管理</a></h3>
-        <ul>
-            <li><a href="listofusers.html">用户列表</a></li>
-        </ul>
-      <h3 class="am-icon-volume-up"><em></em> <a href="#">信息通知</a></h3>
-      <ul>
-        <li>站内消息 /留言 </li>
-        <li>短信</li>
-        <li>邮件</li>
-        <li>微信</li>
-        <li>客服</li>
-      </ul>
-      <h3 class="am-icon-gears"><em></em> <a href="#">系统设置</a></h3>
-      <ul>
-        <li>数据备份</li>
-        <li>邮件/短信管理</li>
-        <li>上传/下载</li>
-        <li>权限</li>
-        <li>网站设置</li>
-        <li>第三方支付</li>
-        <li>提现 /转账 出入账汇率</li>
-        <li>平台设置</li>
-        <li>声音文件</li>
-      </ul>
-    </div>
+            <h3 class="am-icon-flag"><em></em> <a href="#">订单管理</a></h3>
+            <ul>
+                <li><a href="alldeals.html">所有订单列表</a></li>
+                <li><a href="todealwith.html">待处理订单</a></li>
+                <li><a href="doingdeals.html">进行中订单</a></li>
+                <li><a href="completed.html">已完成订单</a></li>
+            </ul>
+            <h3 class="am-icon-cart-plus"><em></em> <a href="#"> 司机管理</a></h3>
+            <ul>
+                <li><a href="drivers.html">司机列表</a></li>
+                <li><a href="driverswaitingforjudge.html">审核中司机</a></li>
+            </ul>
+            <h3 class="am-icon-users"><em></em> <a href="#">用户管理</a></h3>
+            <ul>
+                <li><a href="listofusers.html">用户列表</a></li>
+            </ul>
+            <h3 class="am-icon-volume-up"><em></em> <a href="#">信息通知</a></h3>
+            <ul>
+                <li>站内消息 /留言</li>
+                <li>短信</li>
+                <li>邮件</li>
+                <li>微信</li>
+                <li>客服</li>
+            </ul>
+            <h3 class="am-icon-gears"><em></em> <a href="#">系统设置</a></h3>
+            <ul>
+                <li>数据备份</li>
+                <li>邮件/短信管理</li>
+                <li>上传/下载</li>
+                <li>权限</li>
+                <li>网站设置</li>
+                <li>第三方支付</li>
+                <li>提现 /转账 出入账汇率</li>
+                <li>平台设置</li>
+                <li>声音文件</li>
+            </ul>
+        </div>
         <!-- sideMenu End -->
 
         <script type="text/javascript">
             jQuery(".sideMenu").slide({
-                titCell:"h3", //鼠标触发对象
-                targetCell:"ul", //与titCell一一对应，第n个titCell控制第n个targetCell的显示隐藏
-                effect:"slideDown", //targetCell下拉效果
-                delayTime:300 , //效果时间
-                triggerTime:150, //鼠标延迟触发时间（默认150）
-                defaultPlay:true,//默认是否执行效果（默认true）
-                returnDefault:true //鼠标从.sideMen移走后返回默认状态（默认false）
+                titCell: "h3", //鼠标触发对象
+                targetCell: "ul", //与titCell一一对应，第n个titCell控制第n个targetCell的显示隐藏
+                effect: "slideDown", //targetCell下拉效果
+                delayTime: 300, //效果时间
+                triggerTime: 150, //鼠标延迟触发时间（默认150）
+                defaultPlay: true,//默认是否执行效果（默认true）
+                returnDefault: true //鼠标从.sideMen移走后返回默认状态（默认false）
             });
         </script>
-
-
-
-
-
-
 
 
     </div>
@@ -142,18 +138,28 @@
 
         <div class="daohang">
             <ul>
-                <li><button type="button" class="am-btn am-btn-default am-radius am-btn-xs">首页 </button></li>
-                <li><button type="button" class="am-btn am-btn-default am-radius am-btn-xs">帮助中心<a href="javascript: void(0)" class="am-close am-close-spin" data-am-modal-close="">×</a></button></li>
-                <li><button type="button" class="am-btn am-btn-default am-radius am-btn-xs">奖金管理<a href="javascript: void(0)" class="am-close am-close-spin" data-am-modal-close="">×</a></button></li>
-                <li><button type="button" class="am-btn am-btn-default am-radius am-btn-xs">产品管理<a href="javascript: void(0)" class="am-close am-close-spin" data-am-modal-close="">×</a></button></li>
+                <li>
+                    <button class="am-btn am-btn-default am-radius am-btn-xs" type="button">首页</button>
+                </li>
+                <li>
+                    <button class="am-btn am-btn-default am-radius am-btn-xs" type="button">帮助中心<a
+                            class="am-close am-close-spin" data-am-modal-close="" href="javascript: void(0)">×</a>
+                    </button>
+                </li>
+                <li>
+                    <button class="am-btn am-btn-default am-radius am-btn-xs" type="button">奖金管理<a
+                            class="am-close am-close-spin" data-am-modal-close="" href="javascript: void(0)">×</a>
+                    </button>
+                </li>
+                <li>
+                    <button class="am-btn am-btn-default am-radius am-btn-xs" type="button">产品管理<a
+                            class="am-close am-close-spin" data-am-modal-close="" href="javascript: void(0)">×</a>
+                    </button>
+                </li>
             </ul>
 
 
-
-
         </div>
-
-
 
 
         <div class="admin-biaogelist">
@@ -164,9 +170,8 @@
                 <dl class="am-icon-home" style="float: right;"> 当前位置： <a href="index.html">首页</a>>已完成订单</dl>
 
                 <dl>
-                    <button type="button" class="am-btn am-btn-danger am-round am-btn-xs am-icon-plus"> 添加产品</button>
+                    <button class="am-btn am-btn-danger am-round am-btn-xs am-icon-plus" type="button"> 添加产品</button>
                 </dl>
-
 
             </div>
 
@@ -194,11 +199,13 @@
                     </li>
                     <li style="margin-right: 0;">
                         <span class="tubiao am-icon-calendar"></span>
-                        <input type="text" class="am-form-field am-input-sm am-input-zm  am-icon-calendar" placeholder="开始日期" data-am-datepicker="{theme: 'success',}"  readonly/>
+                        <input class="am-form-field am-input-sm am-input-zm  am-icon-calendar" data-am-datepicker="{theme: 'success',}"
+                               placeholder="开始日期" readonly type="text"/>
                     </li>
                     <li style="margin-left: -4px;">
                         <span class="tubiao am-icon-calendar"></span>
-                        <input type="text" class="am-form-field am-input-sm am-input-zm  am-icon-calendar" placeholder="开始日期" data-am-datepicker="{theme: 'success',}"  readonly/>
+                        <input class="am-form-field am-input-sm am-input-zm  am-icon-calendar" data-am-datepicker="{theme: 'success',}"
+                               placeholder="开始日期" readonly type="text"/>
                     </li>
 
                     <li style="margin-left: -10px;">
@@ -211,30 +218,34 @@
                             </select>
                         </div>
                     </li>
-                    <li><input type="text" class="am-form-field am-input-sm am-input-xm" placeholder="关键词搜索" /></li>
-                    <li><button type="button" class="am-btn am-radius am-btn-xs am-btn-success" style="margin-top: -1px;">搜索</button></li>
+                    <li><input class="am-form-field am-input-sm am-input-xm" placeholder="关键词搜索" type="text"/></li>
+                    <li>
+                        <button class="am-btn am-radius am-btn-xs am-btn-success" style="margin-top: -1px;"
+                                type="button">搜索
+                        </button>
+                    </li>
                 </ul>
             </div>
 
 
             <form class="am-form am-g">
-                <table width="100%" class="am-table am-table-bordered am-table-radius am-table-striped">
+                <table class="am-table am-table-bordered am-table-radius am-table-striped" width="100%">
                     <thead>
                     <tr class="am-success">
-                        <th class="table-check"><input type="checkbox" /></th>
+                        <th class="table-check"><input type="checkbox"/></th>
                         <th class="table-id">序号</th>
                         <th class="table-title">订单号</th>
                         <th class="table-type">路线</th>
                         <th class="table-type">司机名</th>
                         <th class="table-type">用户名</th>
-                        <th class="table-author am-hide-sm-only">订单状态 </th>
+                        <th class="table-author am-hide-sm-only">订单状态</th>
                         <th class="table-date am-hide-sm-only">修改日期</th>
-                        <th width="163px" class="table-set">操作</th>
+                        <th class="table-set" width="163px">操作</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
-                        <td><input type="checkbox" /></td>
+                        <td><input type="checkbox"/></td>
                         <td>1</td>
                         <td>123454</a></td>
                         <td>A—B</td>
@@ -242,17 +253,23 @@
                         <td>李**</td>
                         <td class="am-hide-sm-only">已完成</td>
                         <td class="am-hide-sm-only">2019年1月19日 7:18:47</td>
-                        <td><div class="am-btn-toolbar">
-                            <div class="am-btn-group am-btn-group-xs">
-                                <button class="am-btn am-btn-default am-btn-xs am-text-success am-round"><span class="am-icon-search"></span> </button>
-                                <button class="am-btn am-btn-default am-btn-xs am-text-secondary am-round"><span class="am-icon-pencil-square-o"></span></button>
-                                <button class="am-btn am-btn-default am-btn-xs am-text-warning  am-round"><span class="am-icon-copy"></span></button>
-                                <button class="am-btn am-btn-default am-btn-xs am-text-danger am-round"><span class="am-icon-trash-o"></span></button>
+                        <td>
+                            <div class="am-btn-toolbar">
+                                <div class="am-btn-group am-btn-group-xs">
+                                    <button class="am-btn am-btn-default am-btn-xs am-text-success am-round"><span
+                                            class="am-icon-search"></span></button>
+                                    <button class="am-btn am-btn-default am-btn-xs am-text-secondary am-round"><span
+                                            class="am-icon-pencil-square-o"></span></button>
+                                    <button class="am-btn am-btn-default am-btn-xs am-text-warning  am-round"><span
+                                            class="am-icon-copy"></span></button>
+                                    <button class="am-btn am-btn-default am-btn-xs am-text-danger am-round"><span
+                                            class="am-icon-trash-o"></span></button>
+                                </div>
                             </div>
-                        </div></td>
+                        </td>
                     </tr>
                     <tr>
-                        <td><input type="checkbox" /></td>
+                        <td><input type="checkbox"/></td>
                         <td>2</td>
                         <td>123457</td>
                         <td>A—B</td>
@@ -260,27 +277,35 @@
                         <td>王**</td>
                         <td class="am-hide-sm-only">已完成</td>
                         <td class="am-hide-sm-only">2019年1月19日 7:29:57</td>
-                        <td><div class="am-btn-toolbar">
-                            <div class="am-btn-group am-btn-group-xs">
-                                <button class="am-btn am-btn-default am-btn-xs am-text-success am-round"><span class="am-icon-search"></span> </button>
-                                <button class="am-btn am-btn-default am-btn-xs am-text-secondary am-round"><span class="am-icon-pencil-square-o"></span></button>
-                                <button class="am-btn am-btn-default am-btn-xs am-text-warning  am-round"><span class="am-icon-copy"></span></button>
-                                <button class="am-btn am-btn-default am-btn-xs am-text-danger am-round"><span class="am-icon-trash-o"></span></button>
+                        <td>
+                            <div class="am-btn-toolbar">
+                                <div class="am-btn-group am-btn-group-xs">
+                                    <button class="am-btn am-btn-default am-btn-xs am-text-success am-round"><span
+                                            class="am-icon-search"></span></button>
+                                    <button class="am-btn am-btn-default am-btn-xs am-text-secondary am-round"><span
+                                            class="am-icon-pencil-square-o"></span></button>
+                                    <button class="am-btn am-btn-default am-btn-xs am-text-warning  am-round"><span
+                                            class="am-icon-copy"></span></button>
+                                    <button class="am-btn am-btn-default am-btn-xs am-text-danger am-round"><span
+                                            class="am-icon-trash-o"></span></button>
+                                </div>
                             </div>
-                        </div></td>
+                        </td>
                     </tr>
                     </tbody>
                 </table>
 
                 <div class="am-btn-group am-btn-group-xs">
-                    <button type="button" class="am-btn am-btn-default"><span class="am-icon-plus"></span> 删除</button>
-                    <button type="button" class="am-btn am-btn-default"><span class="am-icon-save"></span> 上架</button>
-                    <button type="button" class="am-btn am-btn-default"><span class="am-icon-save"></span> 下架</button>
-                    <button type="button" class="am-btn am-btn-default"><span class="am-icon-save"></span> 移动</button>
-                    <button type="button" class="am-btn am-btn-default"><span class="am-icon-plus"></span> 新增</button>
-                    <button type="button" class="am-btn am-btn-default"><span class="am-icon-save"></span> 保存</button>
-                    <button type="button" class="am-btn am-btn-default"><span class="am-icon-archive"></span> 移动</button>
-                    <button type="button" class="am-btn am-btn-default"><span class="am-icon-trash-o"></span> 删除</button>
+                    <button class="am-btn am-btn-default" type="button"><span class="am-icon-plus"></span> 删除</button>
+                    <button class="am-btn am-btn-default" type="button"><span class="am-icon-save"></span> 上架</button>
+                    <button class="am-btn am-btn-default" type="button"><span class="am-icon-save"></span> 下架</button>
+                    <button class="am-btn am-btn-default" type="button"><span class="am-icon-save"></span> 移动</button>
+                    <button class="am-btn am-btn-default" type="button"><span class="am-icon-plus"></span> 新增</button>
+                    <button class="am-btn am-btn-default" type="button"><span class="am-icon-save"></span> 保存</button>
+                    <button class="am-btn am-btn-default" type="button"><span class="am-icon-archive"></span> 移动
+                    </button>
+                    <button class="am-btn am-btn-default" type="button"><span class="am-icon-trash-o"></span> 删除
+                    </button>
                 </div>
 
                 <ul class="am-pagination am-fr">
@@ -294,13 +319,9 @@
                 </ul>
 
 
-
-
-                <hr />
+                <hr/>
                 <p>注：.....</p>
             </form>
-
-
 
 
             <div class="foods">
@@ -308,18 +329,14 @@
                     版权所有@2019.
                 </ul>
                 <dl>
-                    <a href="" title="返回头部" class="am-icon-btn am-icon-arrow-up"></a>
+                    <a class="am-icon-btn am-icon-arrow-up" href="" title="返回头部"></a>
                 </dl>
             </div>
-
-
 
 
         </div>
 
     </div>
-
-
 
 
 </div>
@@ -335,7 +352,6 @@
 <!--[if (gte IE 9)|!(IE)]><!-->
 <script src="../js/amazeui.min.js"></script>
 <!--<![endif]-->
-
 
 
 </body>
