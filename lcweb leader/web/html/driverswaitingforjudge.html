@@ -90,6 +90,16 @@
                 <li><a href="drivers.html">司机列表</a></li>
                 <li><a href="driverswaitingforjudge.html">审核中司机</a></li>
             </ul>
+            <h3 class="am-icon-users"><em></em> <a href="#">线路负责人管理</a></h3>
+            <ul>
+                <li><a href="linemanager.html">线路负责人</a></li>
+            </ul>
+            
+            <h3 class="am-icon-users"><em></em> <a href="#">用户管理</a></h3>
+                <ul>
+                    <li><a href="allusers.html">所有用户</a></li>
+                </ul>
+            
             <h3 class="am-icon-volume-up"><em></em> <a href="#">信息通知</a></h3>
             <ul>
                 <li>站内消息 /留言</li>
@@ -142,72 +152,96 @@
         <div class="admin-biaogelist">
 
             <div class="listbiaoti am-cf">
-                <ul class="am-icon-flag on"> 添加司机</ul>
-
-                <dl class="am-icon-home" style="float: right;"> 当前位置： <a href="index.html">首页 </a>><a href="drivers.html">司机管理</a>>添加司机</dl>
-
-
+                <ul class="am-icon-cart-plus on">司机管理</ul>
+                <dl class="am-icon-home" style="float: right;"> 当前位置： <a href="index.html">首页</a>>审核中司机</dl>
+                <dl>
+                    <button class="am-btn am-btn-danger am-round am-btn-xs am-icon-plus" type="button"> 通过审核
+                    </button>
+                </dl>
             </div>
 
-            <div class="fbneirong">
-                <form class="am-form">
-                    <div class="am-form-group am-cf">
-                        <div class="zuo">司机姓名：</div>
-                        <div class="you">
-                            <input class="am-input-sm" id="doc-ipt-email-1" placeholder="请输入姓名" type="email">
-                        </div>
-                    </div>
-                    <div class="am-form-group am-cf">
-                        <div class="zuo">性别：</div>
-                        <div class="you">
-                            <input class="am-input-sm" id="doc-ipt-email-1" placeholder="请输入性别" type="email">
-                        </div>
-                    </div>
-                    <div class="am-form-group am-cf">
-                        <div class="zuo">年龄：</div>
-                        <div class="you">
-                            <input class="am-input-sm" id="doc-ipt-email-1" placeholder="请输入年龄" type="email">
-                        </div>
-                    </div>
-                    <div class="am-form-group am-cf">
-                        <div class="zuo">线路id：</div>
-                        <div class="you">
-                            <input class="am-input-sm" id="doc-ipt-email-1" placeholder="请输入线路id" type="email">
-                        </div>
-                    </div>
-                    <div class="am-form-group am-cf">
-                        <div class="zuo">线路名称：</div>
-                        <div class="you">
-                            <input class="am-input-sm" id="doc-ipt-email-1" placeholder="请输入线路名称" type="email">
-                        </div>
-                    </div>
-                    <div class="am-form-group am-cf">
-                        <div class="zuo">车牌号：</div>
-                        <div class="you">
-                            <input class="am-input-sm" id="doc-ipt-email-1" placeholder="请输入车牌号" type="email">
-                        </div>
-                    </div>
-                    <div class="am-form-group am-cf">
-                        <div class="zuo">联系方式：</div>
-                        <div class="you">
-                            <input class="am-input-sm" id="doc-ipt-email-1" placeholder="请输入联系方式" type="email">
-                        </div>
-                    </div>
-                    <div class="am-form-group am-cf">
-                        <div class="zuo">其他信息：</div>
-                        <div class="you">
-                            <textarea class="" id="doc-ta-1" rows="1"></textarea>
-                        </div>
-                    </div>
+            <div class="am-btn-toolbars am-btn-toolbar am-kg am-cf">
+                <ul>
+                <!--
+                    <li style="margin-right: 0;">
+                        <span class="tubiao am-icon-calendar"></span>
+                        <input class="am-form-field am-input-sm am-input-zm  am-icon-calendar" data-am-datepicker="{theme: 'success',}"
+                               placeholder="开始日期" readonly type="text"/>
+                    </li>
+                    <li style="margin-left: -4px;">
+                        <span class="tubiao am-icon-calendar"></span>
+                        <input class="am-form-field am-input-sm am-input-zm  am-icon-calendar" data-am-datepicker="{theme: 'success',}"
+                               placeholder="开始日期" readonly type="text"/>
+                    </li>-->
 
-                    <div class="am-form-group am-cf">
-                        <div class="you" style="margin-left: 11%;">
-                            <button class="am-btn am-btn-success am-radius" type="submit">提交</button>
-
+                    <li style="margin-left: -10px;">
+                        <div class="am-btn-group am-btn-group-xs">
+                            <select data-am-selected="{btnWidth: 90, btnSize: 'sm', btnStyle: 'default'}">
+                                <option value="b">全部</option>
+                                <option value="o">待确认</option>
+                                <option value="o">待审核</option>
+                            </select>
                         </div>
-                    </div>
-                </form>
+                    </li>
+                    <li><input class="am-form-field am-input-sm am-input-xm" placeholder="关键词搜索" type="text"/></li>
+                    <li>
+                        <button class="am-btn am-radius am-btn-xs am-btn-success" style="margin-top: -1px;"
+                                type="button">搜索
+                        </button>
+                    </li>
+                </ul>
             </div>
+
+
+            <form class="am-form am-g">
+                <table class="am-table am-table-bordered am-table-radius am-table-striped" width="100%">
+                    <thead>
+                    <tr class="am-success">
+                        <th class="table-check"><input type="checkbox"/></th>
+                        <th class="table-title">姓名</th>
+                        <th class="table-type">性别</th>
+                        <th class="table-type">年龄</th>
+                        <th class="table-type">线路名称</th>
+                        <th class="table-type">车牌号</th>
+                        <th class="table-type">联系方式</th>
+                        <th class="table-type">当前状态</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td><input type="checkbox"/></td>
+                        <td>张雨</td>
+                        <td>男</td>
+                        <td>39</td>
+                        <td>线路一</td>
+                        <td>沪A88888</td>
+                        <td>18900009999</td>
+                        <td>待确认</td>
+                    </tr>
+                    <tr>
+                        <td><input type="checkbox"/></td>
+                        <td>刘云</td>
+                        <td>男</td>
+                        <td>36</td>
+                        <td>线路一</td>
+                        <td>沪A88887</td>
+                        <td>18900009777</td>
+                        <td>待审核</td>
+                    </tr>
+                    </tbody>
+                </table>
+
+
+                <ul class="am-pagination am-fr">
+                    <li class="am-disabled"><a href="#">«</a></li>
+                    <li class="am-active"><a href="#">1</a></li>
+                    <li><a href="#">2</a></li>
+                    <li><a href="#">3</a></li>
+                    <li><a href="#">4</a></li>
+                    <li><a href="#">5</a></li>
+                    <li><a href="#">»</a></li>
+                </ul>
+            </form>
 
 
             <div class="foods">

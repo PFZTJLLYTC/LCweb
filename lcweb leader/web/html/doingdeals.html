@@ -90,6 +90,16 @@
                 <li><a href="drivers.html">司机列表</a></li>
                 <li><a href="driverswaitingforjudge.html">审核中司机</a></li>
             </ul>
+            <h3 class="am-icon-users"><em></em> <a href="#">线路负责人管理</a></h3>
+            <ul>
+                <li><a href="linemanager.html">线路负责人</a></li>
+            </ul>
+            
+            <h3 class="am-icon-users"><em></em> <a href="#">用户管理</a></h3>
+                <ul>
+                    <li><a href="allusers.html">所有用户</a></li>
+                </ul>
+            
             <h3 class="am-icon-volume-up"><em></em> <a href="#">信息通知</a></h3>
             <ul>
                 <li>站内消息 /留言</li>
@@ -142,13 +152,8 @@
         <div class="admin-biaogelist">
 
             <div class="listbiaoti am-cf">
-                <ul class="am-icon-flag on"> 订单管理</ul>
-                <dl class="am-icon-home" style="float: right;"> 当前位置： <a href="index.html">首页</a>>所有订单列表</dl>
-
-                <dl>
-                    <button class="am-btn am-btn-danger am-round am-btn-xs am-icon-plus" type="button"> 分配司机
-                    </button>
-                </dl>
+                <ul class="am-icon-flag on">订单管理</ul>
+                <dl class="am-icon-home" style="float: right;"> 当前位置： <a href="index.html">首页</a>>进行中订单</dl>
             </div>
 
             <div class="am-btn-toolbars am-btn-toolbar am-kg am-cf">
@@ -156,10 +161,10 @@
                     <li>
                         <div class="am-btn-group am-btn-group-xs">
                             <select data-am-selected="{btnWidth: 90, btnSize: 'sm', btnStyle: 'default'}">
-                                <option value="b">所有订单</option>
+                                <option value="b">进行中</option>
                                 <option value="o">待处理</option>
-                                <option value="o">进行中</option>
                                 <option value="o">已完成</option>
+                                <option value="o">所有订单</option>
                             </select>
                         </div>
                     </li>
@@ -177,10 +182,10 @@
                     <li style="margin-left: -10px;">
                         <div class="am-btn-group am-btn-group-xs">
                             <select data-am-selected="{btnWidth: 90, btnSize: 'sm', btnStyle: 'default'}">
-                                <option value="b">所有订单</option>
+                                <option value="b">进行中</option>
                                 <option value="o">待处理</option>
-                                <option value="o">进行中</option>
                                 <option value="o">已完成</option>
+                                <option value="o">所有订单</option>
                             </select>
                         </div>
                     </li>
@@ -214,19 +219,6 @@
                     <tbody>
                     <tr>
                         <td><input type="checkbox"/></td>
-                        <td>1</td>
-                        <td>123456</td>
-                        <td>10086</td>
-                        <td>华东师范大学</td>
-                        <td>2</td>
-                        <td></td>
-                        <td></td>
-                        <td class="am-hide-sm-only">待处理</td>
-                        <td class="am-hide-sm-only">2019年1月19日 7:48:55</td>
-                        <td class="am-hide-sm-only">2019年1月19日 7:48:55</td>
-                    </tr>
-                    <tr>
-                        <td><input type="checkbox"/></td>
                         <td>2</td>
                         <td>123457</td>
                         <td>10010</td>
@@ -238,26 +230,8 @@
                         <td class="am-hide-sm-only">2019年1月19日 7:29:57</td>
                         <td class="am-hide-sm-only">2019年1月19日 7:31:57</td>
                     </tr>
-                    <tr>
-                        <td><input type="checkbox"/></td>
-                        <td>2</td>
-                        <td>123457</td>
-                        <td>10010</td>
-                        <td>中山北路</td>
-                        <td>1</td>
-                        <td>李明</td>
-                        <td>沪B66669</td>
-                        <td class="am-hide-sm-only">已完成</td>
-                        <td class="am-hide-sm-only">2019年1月19日 7:11:57</td>
-                        <td class="am-hide-sm-only">2019年1月19日 7:14:47</td>
-                    </tr>
                     </tbody>
                 </table>
-
-                <div class="am-btn-group am-btn-group-xs">
-
-                </div>
-
                 <ul class="am-pagination am-fr">
                     <li class="am-disabled"><a href="#">«</a></li>
                     <li class="am-active"><a href="#">1</a></li>
@@ -267,7 +241,7 @@
                     <li><a href="#">5</a></li>
                     <li><a href="#">»</a></li>
                 </ul>
-                <hr/>
+
             </form>
 
 
