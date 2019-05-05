@@ -32,17 +32,17 @@
 
 
                     <li class="am-dropdown-header">所有消息都在这里</li>
-                    <li><a href="todealwith.html">未处理订单 <span class="am-badge am-badge-danger am-round">6</span></a>
+                    <li><a href="">未处理订单 <span class="am-badge am-badge-danger am-round">6</span></a>
                     </li>
-                    <li><a href="#">未处理司机申请</a></li>
-                    <li><a href="#">系统升级</a></li>
+                    <li><a href="">未处理司机申请</a></li>
+                    <li><a href="">系统升级</a></li>
                 </ul>
             </li>
 
             <li class="kuanjie">
 
-                <a href="#">个人中心</a>
-                <a href="#">系统设置</a>
+                <a href="">个人中心</a>
+                <a href="">系统设置</a>
             </li>
 
             <li class="soso">
@@ -53,7 +53,6 @@
                         <option value="b">全部</option>
                         <option value="o">订单</option>
                         <option value="o">司机</option>
-
                     </select>
 
                 </p>
@@ -65,8 +64,12 @@
             </li>
 
 
-            <li class="am-hide-sm-only" style="float: right;"><a href="javascript:" id="admin-fullscreen"><span
-                    class="am-icon-arrows-alt"></span> <span class="admin-fullText">开启全屏</span></a></li>
+            <li class="am-hide-sm-only" style="float: right;">
+                <a href="javascript:" id="admin-fullscreen">
+                    <span class="am-icon-arrows-alt"></span>
+                    <span class="admin-fullText">开启全屏</span>
+                </a>
+            </li>
         </ul>
     </div>
 </header>
@@ -76,19 +79,19 @@
     <div class="nav-navicon admin-main admin-sidebar">
 
 
-        <div class="sideMenu am-icon-dashboard" style="color:#aeb2b7; margin: 10px 0 0 0;"> 欢迎系统管理员：德玛西亚</div>
+        <div class="sideMenu am-icon-dashboard" style="color:#aeb2b7; margin: 10px 0 0 0;"> 欢迎系统管理员：${manager.name}</div>
         <div class="sideMenu">
             <h3 class="am-icon-flag"><em></em> <a href="#">订单管理</a></h3>
             <ul>
-                <li><a href="alldeals.html">所有订单列表</a></li>
-                <li><a href="todealwith.html">待处理订单</a></li>
-                <li><a href="doingdeals.html">进行中订单</a></li>
-                <li><a href="completed.html">已完成订单</a></li>
+                <li><a href="">所有订单列表</a></li>
+                <li><a href="">待处理订单</a></li>
+                <li><a href="">进行中订单</a></li>
+                <li><a href="">已完成订单</a></li>
             </ul>
             <h3 class="am-icon-users"><em></em> <a href="#"> 司机管理</a></h3>
             <ul>
-                <li><a href="drivers.html">司机列表</a></li>
-                <li><a href="driverswaitingforjudge.html">审核中司机</a></li>
+                <li><a href="">司机列表</a></li>
+                <li><a href="">审核中司机</a></li>
             </ul>
             <h3 class="am-icon-volume-up"><em></em> <a href="#">信息通知</a></h3>
             <ul>
@@ -117,25 +120,26 @@
     </div>
 
     <div class=" admin-content">
-
         <div class="daohang">
             <ul>
                 <li>
-                    <button class="am-btn am-btn-default am-radius am-btn-xs" type="button"> 首页</button>
-                </li>
-                <li>
-                    <button class="am-btn am-btn-default am-radius am-btn-xs" type="button">订单管理<a
-                            class="am-close am-close-spin" data-am-modal-close="" href="javascript: void(0)">×</a>
+                    <button class="am-btn am-btn-default am-radius am-btn-xs" type="button">
+                        首页
                     </button>
                 </li>
                 <li>
-                    <button class="am-btn am-btn-default am-radius am-btn-xs" type="button">司机管理<a
-                            class="am-close am-close-spin" data-am-modal-close="" href="javascript: void(0)">×</a>
+                    <button class="am-btn am-btn-default am-radius am-btn-xs" type="button">
+                        订单管理
+                        <a class="am-close am-close-spin" data-am-modal-close="" href="javascript: void(0)">×</a>
+                    </button>
+                </li>
+                <li>
+                    <button class="am-btn am-btn-default am-radius am-btn-xs" type="button">
+                        司机管理
+                        <a class="am-close am-close-spin" data-am-modal-close="" href="javascript: void(0)">×</a>
                     </button>
                 </li>
             </ul>
-
-
         </div>
 
 
@@ -144,9 +148,10 @@
             <div class="listbiaoti am-cf">
                 <ul class="am-icon-flag on"> 添加司机</ul>
 
-                <dl class="am-icon-home" style="float: right;"> 当前位置： <a href="index.html">首页 </a>><a href="drivers.html">司机管理</a>>添加司机</dl>
-
-
+                <dl class="am-icon-home" style="float: right;">
+                    当前位置：
+                    <a href="">首页 </a>><a href="drivers.html">司机管理</a>>添加司机
+                </dl>
             </div>
 
             <div class="fbneirong">
