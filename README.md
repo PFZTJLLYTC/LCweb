@@ -43,3 +43,23 @@ the webfile of LianCheng
 * 使用spring boot和thymeleaf
 * 计划下次技术优化
 
+### manager还需要的templates(ftl)有
+
++ atRestDrivers
++ availableDrivers
++ onRoadDrivers
++ toBeVerifiedDrivers
++ waitOrders
++ processingOrders
++ doneOrders
++ notice
++ addDrivers
++ driverDetail
++ about
++ settings(add logout button in this page)
++ statics(与index相仿/optional)
++ orderDetails(includes select availableDriver function)
+```
+命名规范and清晰化，egg：alldeals -> allOrders
+```
+
