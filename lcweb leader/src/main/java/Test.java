@@ -25,7 +25,7 @@ public class Test {
         root.put("orders", orders);//放置latestProduct
 
         //获得模板temp
-        Template temp = cfg.getTemplate("alldeals.ftlh");
+        Template temp = cfg.getTemplate("allDeals.ftl");
 
         //合并模板和数据模型data-model+template=output
         File hellohtml = new File("D:\\Github\\LCweb\\lcweb leader\\web\\outputhtml\\alldeals.html");

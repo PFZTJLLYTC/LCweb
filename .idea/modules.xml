@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LCweb.iml" filepath="$PROJECT_DIR$/.idea/LCweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lcweb leader/lcweb.iml" filepath="$PROJECT_DIR$/lcweb leader/lcweb.iml" />
     </modules>
   </component>
 </project>

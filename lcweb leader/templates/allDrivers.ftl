@@ -32,17 +32,17 @@
 
 
                     <li class="am-dropdown-header">所有消息都在这里</li>
-                    <li><a href="todealwith.html">未处理订单 <span class="am-badge am-badge-danger am-round">6</span></a>
+                    <li><a href="">未处理订单 <span class="am-badge am-badge-danger am-round">6</span></a>
                     </li>
-                    <li><a href="#">未处理司机申请</a></li>
-                    <li><a href="#">系统升级</a></li>
+                    <li><a href="">未处理司机申请</a></li>
+                    <li><a href="">系统升级</a></li>
                 </ul>
             </li>
 
             <li class="kuanjie">
 
-                <a href="#">个人中心</a>
-                <a href="#">系统设置</a>
+                <a href="">个人中心</a>
+                <a href="">系统设置</a>
             </li>
 
             <li class="soso">
@@ -65,7 +65,7 @@
             </li>
 
 
-            <li class="am-hide-sm-only" style="float: right;"><a href="javascript:" id="admin-fullscreen"><span
+            <li class="am-hide-sm-only" style="float: right;"><a href="" id="admin-fullscreen"><span
                             class="am-icon-arrows-alt"></span> <span class="admin-fullText">开启全屏</span></a></li>
         </ul>
     </div>
@@ -78,33 +78,33 @@
 
         <div class="sideMenu am-icon-dashboard" style="color:#aeb2b7; margin: 10px 0 0 0;"> 欢迎系统管理员：德玛西亚</div>
         <div class="sideMenu">
-            <h3 class="am-icon-flag"><em></em> <a href="#">订单管理</a></h3>
+            <h3 class="am-icon-flag"><em></em> <a href="">订单管理</a></h3>
             <ul>
-                <li><a href="alldeals.html">所有订单列表</a></li>
-                <li><a href="todealwith.html">待处理订单</a></li>
-                <li><a href="doingdeals.html">进行中订单</a></li>
-                <li><a href="completed.html">已完成订单</a></li>
+                <li><a href="">所有订单列表</a></li>
+                <li><a href="">待处理订单</a></li>
+                <li><a href="">进行中订单</a></li>
+                <li><a href="">已完成订单</a></li>
             </ul>
-            <h3 class="am-icon-users"><em></em> <a href="#"> 司机管理</a></h3>
+            <h3 class="am-icon-users"><em></em> <a href=""> 司机管理</a></h3>
             <ul>
-                <li><a href="drivers.html">司机列表</a></li>
-                <li><a href="driverswaitingforjudge.html">审核中司机</a></li>
+                <li><a href="">司机列表</a></li>
+                <li><a href="">审核中司机</a></li>
             </ul>
-            <h3 class="am-icon-users"><em></em> <a href="#">线路负责人管理</a></h3>
+            <h3 class="am-icon-users"><em></em> <a href="">线路负责人管理</a></h3>
             <ul>
-                <li><a href="linemanager.html">线路负责人</a></li>
+                <li><a href="">线路负责人</a></li>
             </ul>
 
             <h3 class="am-icon-users"><em></em> <a href="#">用户管理</a></h3>
             <ul>
-                <li><a href="allusers.html">所有用户</a></li>
+                <li><a href="">所有用户</a></li>
             </ul>
 
-            <h3 class="am-icon-volume-up"><em></em> <a href="#">信息通知</a></h3>
+            <h3 class="am-icon-volume-up"><em></em> <a href="">信息通知</a></h3>
             <ul>
                 <li>站内消息 /留言</li>
             </ul>
-            <h3 class="am-icon-gears"><em></em> <a href="#">系统设置</a></h3>
+            <h3 class="am-icon-gears"><em></em> <a href="">系统设置</a></h3>
             <ul>
                 <li>数据备份</li>
             </ul>
@@ -135,12 +135,12 @@
                 </li>
                 <li>
                     <button class="am-btn am-btn-default am-radius am-btn-xs" type="button">订单管理<a
-                                class="am-close am-close-spin" data-am-modal-close="" href="javascript: void(0)">×</a>
+                                class="am-close am-close-spin" data-am-modal-close="" href="">×</a>
                     </button>
                 </li>
                 <li>
                     <button class="am-btn am-btn-default am-radius am-btn-xs" type="button">司机管理<a
-                                class="am-close am-close-spin" data-am-modal-close="" href="javascript: void(0)">×</a>
+                                class="am-close am-close-spin" data-am-modal-close="" href="">×</a>
                     </button>
                 </li>
             </ul>
@@ -148,46 +148,43 @@
 
         </div>
 
-
         <div class="admin-biaogelist">
 
             <div class="listbiaoti am-cf">
-                <ul class="am-icon-flag on"> 订单管理</ul>
-                <dl class="am-icon-home" style="float: right;"> 当前位置： <a href="index.html">首页</a>>待处理订单</dl>
+                <ul class="am-icon-cart-plus on"> 司机管理</ul>
+
+                <dl class="am-icon-home" style="float: right;"> 当前位置： <a href="">首页</a>>司机列表</dl>
+
+                <dl>
+                    <button class="am-btn am-btn-danger am-round am-btn-xs am-icon-plus" onclick="window.location.href='adddrivers.html' +
+         ''" type="button"> 添加司机
+                    </button>
+                </dl>
 
 
             </div>
 
             <div class="am-btn-toolbars am-btn-toolbar am-kg am-cf">
                 <ul>
-                    <li>
-                        <div class="am-btn-group am-btn-group-xs">
-                            <select data-am-selected="{btnWidth: 90, btnSize: 'sm', btnStyle: 'default'}">
-                                <option value="b">待处理</option>
-                                <option value="o">所有订单</option>
-                                <option value="o">进行中</option>
-                                <option value="o">已完成</option>
-                            </select>
-                        </div>
-                    </li>
+                    <!--
                     <li style="margin-right: 0;">
                         <span class="tubiao am-icon-calendar"></span>
                         <input class="am-form-field am-input-sm am-input-zm  am-icon-calendar" data-am-datepicker="{theme: 'success',}"
-                               placeholder="创建日期" readonly type="text"/>
+                               placeholder="开始日期" readonly type="text"/>
                     </li>
                     <li style="margin-left: -4px;">
                         <span class="tubiao am-icon-calendar"></span>
                         <input class="am-form-field am-input-sm am-input-zm  am-icon-calendar" data-am-datepicker="{theme: 'success',}"
-                               placeholder="修改日期" readonly type="text"/>
-                    </li>
+                               placeholder="开始日期" readonly type="text"/>
+                    </li>-->
 
                     <li style="margin-left: -10px;">
                         <div class="am-btn-group am-btn-group-xs">
                             <select data-am-selected="{btnWidth: 90, btnSize: 'sm', btnStyle: 'default'}">
-                                <option value="b">待处理</option>
-                                <option value="o">所有订单</option>
-                                <option value="o">进行中</option>
-                                <option value="o">已完成</option>
+                                <option value="b">全部</option>
+                                <option value="o">休息中</option>
+                                <option value="o">待出行</option>
+                                <option value="o">在路上</option>
                             </select>
                         </div>
                     </li>
@@ -206,46 +203,39 @@
                     <thead>
                     <tr class="am-success">
                         <th class="table-check"><input type="checkbox"/></th>
-                        <th class="table-title">订单id</th>
-                        <th class="table-title">用户id</th>
-                        <th class="table-type">用户电话</th>
-                        <th class="table-type">用户地址</th>
-                        <th class="table-type">乘客数量</th>
-                        <th class="table-type">司机名</th>
+                        <th class="table-title">姓名</th>
+                        <th class="table-type">性别</th>
+                        <th class="table-type">年龄</th>
+                        <th class="table-type">线路名称</th>
                         <th class="table-type">车牌号</th>
-                        <th class="table-author am-hide-sm-only">订单状态</th>
-                        <th class="table-date am-hide-sm-only">创建日期</th>
-                        <th class="table-date am-hide-sm-only">修改日期</th>
+                        <th class="table-type">联系方式</th>
+                        <th class="table-author am-hide-sm-only">状态</th>
                     </tr>
                     </thead>
                     <tbody>
-                    <#list orders as order>
-                        <tr>
+                    <#list drivers as driver>
+                    <tr>
                         <td><input type="checkbox"/></td>
-                        <td>${order.orderId}</td>
-                        <td>${order.userId}</td>
-                        <td>${order.userPhone}</td>
-                        <td>${order.userAddress}</td>
-                        <td>${order.userCount}</td>
-                        <td>${order.driverName}</td>
-                        <td>${order.carNum}</td>
-                        <td class="am-hide-sm-only">${order.orderStatus}</td>
-                        <td class="am-hide-sm-only">${order.createTime}</td>
-                        <td class="am-hide-sm-only">${order.updateTime}</td>
-                        </tr>
+                        <td>${driver.name}</td>
+                        <td>${driver.sex}</td>
+                        <td>${driver.age}</td>
+                        <td>${driver.line}</td>
+                        <td>${driver.carnum}</td>
+                        <td>${driver.dum}</td>
+                        <td>${driver.status}</td>
+                    </tr>
                     </#list>
                     </tbody>
                 </table>
-
-
+                <button>删除司机</button>
                 <ul class="am-pagination am-fr">
-                    <li class="am-disabled"><a href="#">«</a></li>
-                    <li class="am-active"><a href="#">1</a></li>
-                    <li><a href="#">2</a></li>
-                    <li><a href="#">3</a></li>
-                    <li><a href="#">4</a></li>
-                    <li><a href="#">5</a></li>
-                    <li><a href="#">»</a></li>
+                    <li class="am-disabled"><a href="">«</a></li>
+                    <li class="am-active"><a href="">1</a></li>
+                    <li><a href="">2</a></li>
+                    <li><a href="">3</a></li>
+                    <li><a href="">4</a></li>
+                    <li><a href="">5</a></li>
+                    <li><a href="">»</a></li>
                 </ul>
             </form>
 

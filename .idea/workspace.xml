@@ -2,11 +2,441 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6239c5e-2f45-410a-a0b6-6a34c5826b04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lcweb leader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lcweb leader/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lcweb/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lcweb/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lcweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lcweb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lcweb/web/html/adddrivers.html" beforeDir="false" afterPath="$PROJECT_DIR$/lcweb/web/html/adddrivers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LCweb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/.idea/artifacts/lcweb_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/D:/Github/LCweb/lcweb leader/web/outputhtml/alldeals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/lcweb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/.idea/web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/WEB-INF/classes/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/WEB-INF/classes/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/amazeui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/amazeui.datatables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/amazeui.flat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/amazeui.flat.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/amazeui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/amazeui.mineeeee.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/app.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/echartsHome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/fullcalendar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/fullcalendar.print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/css/shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/html/adddrivers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/html/alldeals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/html/allusers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/html/completed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/html/doingdeals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/html/drivers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/html/driverswaitingforjudge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/html/info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/html/linemanager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/html/todealwith.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/img/LC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/img/app-icon72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/img/l_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/img/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/amazeui.datatables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/amazeui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/amazeui.legacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/amazeui.legacy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/amazeui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/amazeui.widgets.helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/amazeui.widgets.helper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/dataTables.responsive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/echartsExample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/fullcalendar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/handlebars.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/jquery.jerichotab.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/polyfill/rem.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/polyfill/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/outputhtml/alldeals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/5c1519a228424.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/app-icon72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/examples/admin-chrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/examples/admin-firefox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/examples/admin-ie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/examples/admin-opera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/examples/admin-safari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/examples/adminPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/examples/blogPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/examples/landing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/examples/landingPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/examples/loginPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/examples/sidebarPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/h_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/icoAdd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/l_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/i/startup-640x1096.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/sign-up.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/table-list-img.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/table-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/会员列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/商品分类.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/库存管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/用户评论.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/out/artifacts/lcweb/temp/订单列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/src/main/java/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/src/main/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/target/classes/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/target/classes/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/templates/alldeals.ftlh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/templates/allusers.ftlh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/templates/completed.ftlh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/templates/doingdeals.ftlh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/templates/drivers.ftlh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/templates/driverswaitingforjudge.ftlh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/templates/linemanager.ftlh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/templates/todealwith.ftlh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/.idea/web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/amazeui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/amazeui.datatables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/amazeui.flat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/amazeui.flat.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/amazeui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/amazeui.mineeeee.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/app.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/echartsHome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/fullcalendar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/fullcalendar.print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/css/shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/html/adddrivers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/html/alldeals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/html/allusers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/html/completed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/html/doingdeals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/html/drivers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/html/driverswaitingforjudge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/html/info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/html/linemanager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/html/todealwith.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/img/LC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/img/app-icon72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/img/l_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/img/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/amazeui.datatables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/amazeui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/amazeui.legacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/amazeui.legacy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/amazeui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/amazeui.widgets.helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/amazeui.widgets.helper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/dataTables.responsive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/echartsExample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/fullcalendar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/handlebars.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/jquery.jerichotab.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/polyfill/rem.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/polyfill/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/outputhtml/alldeals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/5c1519a228424.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/app-icon72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/examples/admin-chrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/examples/admin-firefox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/examples/admin-ie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/examples/admin-opera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/examples/admin-safari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/examples/adminPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/examples/blogPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/examples/landing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/examples/landingPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/examples/loginPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/examples/sidebarPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/h_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/icoAdd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/l_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/i/startup-640x1096.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/sign-up.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/table-list-img.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/table-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/会员列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/商品分类.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/库存管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/用户评论.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb leader/web/temp/订单列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/.idea/artifacts/lcweb_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/lcweb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/.idea/web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/amazeui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/amazeui.datatables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/amazeui.flat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/amazeui.flat.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/amazeui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/amazeui.mineeeee.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/app.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/echartsHome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/fullcalendar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/fullcalendar.print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/css/shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/html/adddrivers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/html/alldeals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/html/completed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/html/doingdeals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/html/drivers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/html/driverswaitingforjudge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/html/info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/html/todealwith.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/img/LC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/img/app-icon72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/img/l_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/img/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/amazeui.datatables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/amazeui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/amazeui.legacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/amazeui.legacy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/amazeui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/amazeui.widgets.helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/amazeui.widgets.helper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/dataTables.responsive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/echartsExample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/fullcalendar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/handlebars.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/jquery.jerichotab.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/polyfill/rem.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/polyfill/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/5c1519a228424.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/app-icon72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/examples/admin-chrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/examples/admin-firefox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/examples/admin-ie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/examples/admin-opera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/examples/admin-safari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/examples/adminPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/examples/blogPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/examples/landing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/examples/landingPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/examples/loginPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/examples/sidebarPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/h_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/icoAdd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/l_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/i/startup-640x1096.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/sign-up.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/table-list-img.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/table-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/会员列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/商品分类.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/库存管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/用户评论.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/out/artifacts/lcweb/temp/订单列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/addDrivers.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/allDeals.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/allDrivers.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/atRestDrivers.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/availableDrivers.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/completedDeals.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/doingDeals.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/index.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/notice.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/onRoadDrivers.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/toBeVerifiedDrivers.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/waitJudgeDrivers.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/templates/waitProcessDeals.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/.idea/web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/amazeui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/amazeui.datatables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/amazeui.flat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/amazeui.flat.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/amazeui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/amazeui.mineeeee.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/app.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/echartsHome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/fullcalendar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/fullcalendar.print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/css/shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/html/adddrivers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/html/alldeals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/html/completed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/html/doingdeals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/html/drivers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/html/driverswaitingforjudge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/html/info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/html/todealwith.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/img/LC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/img/app-icon72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/img/l_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/img/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/amazeui.datatables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/amazeui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/amazeui.legacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/amazeui.legacy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/amazeui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/amazeui.widgets.helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/amazeui.widgets.helper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/dataTables.responsive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/echartsExample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/fullcalendar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/handlebars.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/jquery.jerichotab.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/polyfill/rem.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/polyfill/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/5c1519a228424.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/app-icon72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/examples/admin-chrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/examples/admin-firefox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/examples/admin-ie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/examples/admin-opera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/examples/admin-safari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/examples/adminPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/examples/blogPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/examples/landing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/examples/landingPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/examples/loginPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/examples/sidebarPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/h_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/icoAdd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/l_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/i/startup-640x1096.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/sign-up.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/table-list-img.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/table-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/会员列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/商品分类.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/库存管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/用户评论.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcweb/web/temp/订单列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/preparation/管理界面.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/preparation/连城出行.docx" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/lcweb leader/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,50 +445,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lcweb/templates/alldeals.ftl">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lcweb/web/html/info.html">
+        <entry file="file://$PROJECT_DIR$/lcweb leader/templates/waitProcessDeals.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+            <state relative-caret-position="239">
+              <caret line="218" column="25" lean-forward="true" selection-start-line="218" selection-start-column="25" selection-end-line="218" selection-end-column="25" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lcweb/web/html/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lcweb/web/html/alldeals.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lcweb/web/html/adddrivers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lcweb/web/html/completed.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lcweb/web/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>href</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,21 +468,37 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lcweb/web/html/adddrivers.html" />
+        <option value="$PROJECT_DIR$/lcweb leader/templates/allDeals.ftl" />
+        <option value="$PROJECT_DIR$/lcweb leader/templates/allDrivers.ftl" />
+        <option value="$PROJECT_DIR$/lcweb leader/templates/allUsers.ftl" />
+        <option value="$PROJECT_DIR$/lcweb leader/templates/completedDeals.ftl" />
+        <option value="$PROJECT_DIR$/lcweb leader/templates/doingDeals.ftl" />
+        <option value="$PROJECT_DIR$/lcweb leader/templates/lineManager.ftl" />
+        <option value="$PROJECT_DIR$/lcweb leader/templates/waitJudgeDrivers.ftl" />
+        <option value="$PROJECT_DIR$/lcweb leader/templates/waitProcessDeals.ftl" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="475" />
-    <option name="y" value="207" />
-    <option name="width" value="771" />
-    <option name="height" value="805" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,12 +511,48 @@
               <item name="LCweb" type="462c0819:PsiDirectoryNode" />
               <item name="lcweb" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LCweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCweb" type="462c0819:PsiDirectoryNode" />
+              <item name="lcweb" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LCweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCweb" type="462c0819:PsiDirectoryNode" />
+              <item name="lcweb leader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LCweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCweb" type="462c0819:PsiDirectoryNode" />
+              <item name="lcweb leader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LCweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCweb" type="462c0819:PsiDirectoryNode" />
+              <item name="lcweb leader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LCweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCweb" type="462c0819:PsiDirectoryNode" />
+              <item name="lcweb leader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LCweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCweb" type="462c0819:PsiDirectoryNode" />
+              <item name="lcweb leader" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,10 +592,10 @@
     <option name="totallyTimeSpent" value="529000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1536" height="864" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21101573" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21853857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -151,7 +604,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329235" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -168,7 +621,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -178,8 +631,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lcweb/templates/alldeals.ftl">
+    <entry file="file://$PROJECT_DIR$/lcweb/out/artifacts/lcweb/index.jsp">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb/templates/toBeVerifiedDrivers.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3534" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lcweb/web/html/index.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -200,10 +658,94 @@
     <entry file="file://$PROJECT_DIR$/lcweb/web/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb/templates/allDeals.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1710" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb/templates/notice.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="341" column="48" selection-start-line="341" selection-start-column="48" selection-end-line="341" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lcweb/web/html/info.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+        <state relative-caret-position="3192">
+          <caret line="168" column="73" selection-start-line="168" selection-start-column="73" selection-end-line="168" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb/templates/waitProcessDeals.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb leader/templates/allDeals.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="246" column="33" lean-forward="true" selection-start-line="246" selection-start-column="33" selection-end-line="246" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb leader/templates/allDrivers.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="237" column="33" lean-forward="true" selection-start-line="237" selection-start-column="33" selection-end-line="237" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb leader/templates/allUsers.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="228" column="33" lean-forward="true" selection-start-line="228" selection-start-column="33" selection-end-line="228" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb leader/templates/completedDeals.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="240" column="33" selection-start-line="240" selection-start-column="33" selection-end-line="240" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb leader/templates/doingDeals.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="243" column="33" selection-start-line="243" selection-start-column="33" selection-end-line="243" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb leader/templates/lineManager.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="234" column="33" selection-start-line="234" selection-start-column="33" selection-end-line="234" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb leader/templates/waitJudgeDrivers.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="234" column="33" selection-start-line="234" selection-start-column="33" selection-end-line="234" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb leader/lcweb.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb leader/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb leader/src/main/java/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-760">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcweb leader/templates/waitProcessDeals.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="218" column="25" lean-forward="true" selection-start-line="218" selection-start-column="25" selection-end-line="218" selection-end-column="25" />
         </state>
       </provider>
     </entry>
